@@ -1,0 +1,144 @@
+html
+{
+	background-color: linear-gradient(to bottom, black,white );
+	background-image: url('IMAGEA.JPG');
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: 0 100px;
+	
+}
+#div1
+{
+	background-color: black;
+	height: fit-content;
+	white-space: nowrap;
+	
+	
+}
+#div1 input, select
+{
+	vertical-align: middle;
+
+	
+}
+#div1 input:hover, select:hover
+{
+	border : solid;
+	border-radius: 5px;
+}
+
+	
+#flag
+{
+	width: 25px;
+	height: 20px;
+	padding-left : 10px;
+	padding-right: 10px;
+
+	
+}
+#dash
+{
+	width:30px;
+	padding-left:10px;
+
+}
+#amazon
+{
+	width:120px;
+	padding-right:20px;
+
+	
+}
+#location
+{
+	width: 20px;
+
+	
+	
+}
+#hello
+{
+	color:white;
+	background-color:black;
+	height : 50px;
+	padding-left:10px;
+	padding-right:10px;
+
+}
+#order
+{
+	color:white;
+	background-color:black;
+	height : 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+#div1 select
+{
+	background-color:#DCD8D6;
+	width: 50px;
+	height: 35px;
+
+}
+#text
+{
+	
+	height: 30px;
+	width: 700px;
+
+	
+}
+#cart
+{
+	padding-left: 30px;
+
+
+}
+
+
+#div2
+{
+	
+	background-color: #545251;
+	height: 35px;
+	white-space: nowrap;
+}
+#div2 input
+{
+	height: 35px;
+	background-color: #545251;
+	color : white;
+	padding-right:20px;
+	
+}
+#div2 input:hover
+{
+	border : solid;
+	border-radius: 5px;
+}
+#farbutton
+{
+	float: right;
+
+}
+
+#farbutton:hover
+{
+	border : solid;
+	border-radius: 5px;
+}
+#div3,#div4
+{
+	padding-top: 200px;
+}
+
+span
+{
+	padding : 50px;
+}
+span:hover
+{
+	opacity: 0.5;
+}
